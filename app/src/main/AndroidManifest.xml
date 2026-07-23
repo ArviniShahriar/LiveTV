@@ -14,8 +14,8 @@
     <application
         android:allowBackup="true"
         android:label="Iran Intl Live"
-        android:icon="@android:drawable/ic_menu_tv"
-        android:banner="@android:drawable/ic_menu_tv"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:banner="@android:drawable/sym_def_app_icon"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
 
