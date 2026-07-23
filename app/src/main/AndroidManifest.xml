@@ -13,7 +13,9 @@
 
     <application
         android:allowBackup="true"
-        android:label="TV Live Launcher"
+        android:label="Iran Intl Live"
+        android:icon="@android:drawable/ic_menu_tv"
+        android:banner="@android:drawable/ic_menu_tv"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
 
@@ -23,6 +25,7 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
